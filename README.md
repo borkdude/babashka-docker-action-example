@@ -18,6 +18,8 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/hello-world-docker-action@v1
+```
+uses: borkdude/babashka-docker-action-example@main
 with:
   who-to-greet: 'Mona the Octocat'
+```
